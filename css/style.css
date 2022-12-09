@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    
+    background-color:black!important;
+    color:aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+
+li {
+    text-decoration: none !important;
+}
